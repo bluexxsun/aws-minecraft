@@ -1,0 +1,1 @@
+*/5 * * * * /home/ec2-user/minecraft/auto_stop_server.sh
